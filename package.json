@@ -1,0 +1,16 @@
+{
+  "name": "betterxtend",
+  "version": "0.0.1",
+  "description": "better than xtend",
+  "keywords": [
+    "extend",
+    "merge",
+    "options",
+    "opts",
+    "object",
+    "array"
+  ],
+  "repository": "git://github.com/cofl/betterxtend.git",
+  "main": "extend",
+  "dependencies": {}
+}
